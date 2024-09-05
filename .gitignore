@@ -1,0 +1,17 @@
+figgieenv/
+figgienv_laptop/
+figgie-tournament-testnet-main/
+main_1.py
+main_2.py
+main_3.py
+main_4.py
+main_admin.py
+PortfolioEval_1.py
+PortfolioEval_2.py
+PortfolioEval_3.py
+PortfolioEval_4.py
+__pycache__/
+run_bots.sh
+run_bots_torre.sh
+TO_DO.txt
+unit_test.py
